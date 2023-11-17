@@ -1,0 +1,1 @@
+Input voltage is 0.05v for both channels

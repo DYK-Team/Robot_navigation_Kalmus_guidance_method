@@ -1,0 +1,6 @@
+Tested using multimeter to measure voltage on the power stage = 5.80
+Applied 2 signals from signal generator, first 4 peak=to-peak, then 10v peak-to-peak,
+results shown on the image screen capture
+
+Final tuning will be done using coils connected 
+Second set of pictures needed for distance/voltage proportionality
