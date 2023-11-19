@@ -5,6 +5,7 @@ In this project, the Kalmus’ guidance method has been successfully implemented
 *) H. P. Kalmus, “A New Guiding and Tracking System”, IRE Transactions on Aerospace and Navigational Electronics, Vol. 9, pp. 7–10, (1962).
 
 Further references:
+
 F. H. Raab et al., “Magnetic position and orientation and tracking system”, IEEE Transactions on Aerospace and Electronic Systems, Vol. AES-15, pp. 709718, (1979).
 
 Wireless power transfer: https://en.wikipedia.org/wiki/Wireless_power_transfer 
