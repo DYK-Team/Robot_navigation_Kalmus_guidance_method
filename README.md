@@ -6,6 +6,8 @@ In this project, the Kalmus’ guidance method has been successfully implemented
 
 Further references:
 
+Motion tracking solutions from Polhemus (http://www.polhemus.com): http://polhemus.com/applications/electromagnetics
+
 F. H. Raab et al., “Magnetic position and orientation and tracking system”, IEEE Transactions on Aerospace and Electronic Systems, Vol. AES-15, pp. 709-718, (1979).
 
 Wireless power transfer: https://en.wikipedia.org/wiki/Wireless_power_transfer 
